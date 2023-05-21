@@ -1,0 +1,98 @@
+D:\Anaconda3\envs\python3.7\python.exe D:\FXM\Documents\Python_proj\pythonProject\LSTM-onehot.py 
+corpus length: 282828
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\FXM\AppData\Local\Temp\jieba.cache
+Loading model cost 0.498 seconds.
+Prefix dict has been built successfully.
+total words: 20296
+nb sequences: 61210
+2023-05-20 19:01:47.943684: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-20 19:01:47.944548: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+(None, 50)
+(None, 20296)
+D:\Anaconda3\envs\python3.7\lib\site-packages\keras\optimizers\optimizer_v2\rmsprop.py:140: UserWarning: The `lr` argument is deprecated, use `learning_rate` instead.
+  super().__init__(name, **kwargs)
+Epoch 1/20
+479/479 [==============================] - 87s 177ms/step - loss: 6.9624 - accuracy: 0.1332 - lr: 0.0050
+Epoch 2/20
+479/479 [==============================] - 84s 176ms/step - loss: 6.3572 - accuracy: 0.1651 - lr: 0.0050
+Epoch 3/20
+479/479 [==============================] - 80s 167ms/step - loss: 6.0041 - accuracy: 0.2012 - lr: 0.0050
+Epoch 4/20
+479/479 [==============================] - 93s 193ms/step - loss: 5.7127 - accuracy: 0.2371 - lr: 0.0050
+Epoch 5/20
+479/479 [==============================] - 90s 187ms/step - loss: 5.5447 - accuracy: 0.2764 - lr: 0.0050
+Epoch 6/20
+479/479 [==============================] - 86s 180ms/step - loss: 5.5319 - accuracy: 0.3116 - lr: 0.0050
+Epoch 7/20
+479/479 [==============================] - 87s 182ms/step - loss: 5.4235 - accuracy: 0.3390 - lr: 0.0050
+Epoch 8/20
+479/479 [==============================] - 81s 169ms/step - loss: 5.4083 - accuracy: 0.3601 - lr: 0.0050
+Epoch 9/20
+479/479 [==============================] - 88s 185ms/step - loss: 5.3296 - accuracy: 0.3744 - lr: 0.0050
+Epoch 10/20
+479/479 [==============================] - 87s 181ms/step - loss: 5.1743 - accuracy: 0.3869 - lr: 0.0050
+Epoch 11/20
+479/479 [==============================] - 85s 178ms/step - loss: 4.9489 - accuracy: 0.3993 - lr: 0.0050
+Epoch 12/20
+479/479 [==============================] - 88s 184ms/step - loss: 4.7141 - accuracy: 0.4076 - lr: 0.0050
+Epoch 13/20
+479/479 [==============================] - 94s 197ms/step - loss: 4.4261 - accuracy: 0.4209 - lr: 0.0050
+Epoch 14/20
+479/479 [==============================] - 92s 193ms/step - loss: 4.0959 - accuracy: 0.4362 - lr: 0.0050
+Epoch 15/20
+479/479 [==============================] - 81s 169ms/step - loss: 3.7572 - accuracy: 0.4488 - lr: 0.0050
+Epoch 16/20
+479/479 [==============================] - 80s 167ms/step - loss: 3.3747 - accuracy: 0.4700 - lr: 0.0050
+Epoch 17/20
+479/479 [==============================] - 82s 171ms/step - loss: 3.0359 - accuracy: 0.4888 - lr: 0.0050
+Epoch 18/20
+479/479 [==============================] - 89s 185ms/step - loss: 2.7042 - accuracy: 0.5150 - lr: 0.0050
+Epoch 19/20
+479/479 [==============================] - 83s 173ms/step - loss: 2.4172 - accuracy: 0.5388 - lr: 0.0050
+Epoch 20/20
+479/479 [==============================] - 85s 178ms/step - loss: 2.1730 - accuracy: 0.5624 - lr: 0.0050
+Iteration: 1
+
+diversity: 0.2
+Generating with seed:白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，成了吗？
+怎么会到这样大意？狄云道那郎中先生呢？只怕这小恶僧假装不是知道，有不相信狄云心想欺到小师父，我还是将女儿杀了，我却早给你啦？这样没喜欢这小子
+diversity: 0.5
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，成了？
+却想哭那吓得二人下来，他却哪里有鱼？谁来打扰了书中他的来侵犯，跟着左手一扯，便将性命的姑娘性命。功夫，在花铁干身边我爹爹在傻之
+diversity: 1.0
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，跃起胡子，
+手指一松，听来了再一探跟著半晌，跳起身来，便已不见长剑脱手，身子一晃，站在一旁，只见白马李三夫妇了几下，突觉递出的神色，跃在丁典的刘乘风
+diversity: 1.2
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，说谎不定，
+想无法坐倒。万圭微一来流血一起渐渐地说啊他一声，将长剑砍在旁。只听得水笙大叫，叫双手好生的一角，竟始终，逃的回到放开她不敢血刀老祖哈哈大笑，
+
+Iteration: 2
+
+diversity: 0.2
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，成了？
+却想哭那狱卒言达平好笑是谁？师父，你别看得清清楚楚，又有一人走著她鱼贩头子不住的头发，虽然功夫在不是的。我说什么他？花铁干道我是谁在这里住
+
+diversity: 0.5
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，竟已惊动，
+便给敌人正在对付人二人成了。江湖上一松一一软，心想那人很喜欢这声音甚是沮丧，为恶实，便即昏迷不醒。有人丝毫不敢力气渐渐远去，连你这样么
+
+diversity: 1.0
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，会看夺到胸口，
+将书掩掷的的帐蓬巧法。耿天霸他手中持针起来，却是谁也为什么会对。乖甚？一定很好啊，这里来，你这样吧万震山很一辈子怎麽笑？万震山
+
+diversity: 1.2
+Generating with seed: 白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+白马啸西风得得得，得得得得得得，得得得在黄沙莽莽的回疆大漠之上，尘沙飞起两丈来高，两骑马一前一後的急驰而来。前面是匹高腿长身的白马，
+奔奔奔终于出来的儿子，再也跃了有此行功，之诡异，却有虬髯，按住了答应瞧去，将长剑脱手道毒针侄女，他知道你要杀了，他，可全然不同了我的乡下声
+
+
+进程已结束,退出代码0

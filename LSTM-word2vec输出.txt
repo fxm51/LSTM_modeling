@@ -1,0 +1,68 @@
+D:\Anaconda3\envs\python3.7\python.exe D:\FXM\Documents\Python_proj\pythonProject\LSTM-word2vec.py 
+corpus length: 124699
+Building prefix dict from the default dictionary ...
+Loading model from cache C:\Users\FXM\AppData\Local\Temp\jieba.cache
+Loading model cost 0.522 seconds.
+Prefix dict has been built successfully.
+2023-05-21 16:01:13.607348: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-05-21 16:01:13.608454: I tensorflow/core/common_runtime/process_util.cc:146] Creating new thread pool with default inter op setting: 2. Tune using inter_op_parallelism_threads for best performance.
+Epoch 1/20
+20/20 [==============================] - 33s 2s/step - loss: 0.0991 - accuracy: 0.0055 - lr: 0.0010
+Epoch 2/20
+20/20 [==============================] - 33s 2s/step - loss: 0.0067 - accuracy: 0.3382 - lr: 0.0010
+Epoch 3/20
+20/20 [==============================] - 33s 2s/step - loss: 0.0062 - accuracy: 0.2517 - lr: 0.0010
+Epoch 4/20
+20/20 [==============================] - 26s 1s/step - loss: 0.0061 - accuracy: 0.5209 - lr: 0.0010
+Epoch 5/20
+20/20 [==============================] - 31s 2s/step - loss: 0.0060 - accuracy: 0.5209 - lr: 0.0010
+Epoch 6/20
+20/20 [==============================] - 32s 2s/step - loss: 0.0060 - accuracy: 0.5209 - lr: 5.0000e-04
+Epoch 7/20
+20/20 [==============================] - 31s 2s/step - loss: 0.0060 - accuracy: 0.5209 - lr: 5.0000e-04
+Epoch 8/20
+20/20 [==============================] - 31s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 2.5000e-04
+Epoch 9/20
+20/20 [==============================] - 50s 3s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 1.2500e-04
+Epoch 10/20
+20/20 [==============================] - 31s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 6.2500e-05
+Epoch 11/20
+20/20 [==============================] - 29s 1s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 3.1250e-05
+Epoch 12/20
+20/20 [==============================] - 32s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 1.5625e-05
+Epoch 13/20
+20/20 [==============================] - 32s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 7.8125e-06
+Epoch 14/20
+20/20 [==============================] - 32s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 3.9063e-06
+Epoch 15/20
+20/20 [==============================] - 34s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 1.9531e-06
+Epoch 16/20
+20/20 [==============================] - 32s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 9.7656e-07
+Epoch 17/20
+20/20 [==============================] - 28s 1s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 4.8828e-07
+Epoch 18/20
+20/20 [==============================] - 30s 1s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 2.4414e-07
+Epoch 19/20
+20/20 [==============================] - 33s 2s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 1.2207e-07
+Epoch 20/20
+20/20 [==============================] - 29s 1s/step - loss: 0.0059 - accuracy: 0.5209 - lr: 6.1035e-08
+
+diversity: 0.2
+Generating with seed: 那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又
+那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又阿曼在问在到毒针里会著我著得两个上的做会？用而会著向上说这？
+之中著叫的车尔库说还到车尔库说便上为阿曼谁之计打用著杀？问
+diversity: 0.5
+Generating with seed: 那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又
+那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又老人等阿曼可是？会做不知会跟迷宫？车尔库向汉人说车尔库会便的很叫只见？
+可便老人老人阿曼车尔库只见跟大却老人著？汉人听两人老人很叫没有谁过也毒针老人说
+diversity: 1.0
+Generating with seed: 那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又
+那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又？上说道在会说打；没有之便中之会向来老人却说谁便跟一能两人向之中在车尔库
+很在便跟向有谁一著会只阿曼？？著毒针没有之中人上
+diversity: 1.2
+Generating with seed: 那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又
+那汉子左边背心上却插著一枝长箭。鲜血从他背心流到马背上，又谁死两个之两人便便不是毒针阿曼毒针会谁毒针？车尔库这两个阿曼向叫在迷宫说向在迷宫没有大？
+人老人人阿曼会没有老人向著阿曼？向人不敢等两个车尔库曰上上
+
+进程已结束,退出代码0
