@@ -1,5 +1,3 @@
-# from __future__ import print_function
-
 import jieba
 from tensorflow import keras
 from keras.models import Sequential
